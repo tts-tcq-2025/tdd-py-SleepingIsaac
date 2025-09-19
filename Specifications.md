@@ -1,4 +1,4 @@
-#Feature
+# Feature
 - Create StringCalculator that can take any amount of numbers and return their sum
 
 # Requirement Specification
