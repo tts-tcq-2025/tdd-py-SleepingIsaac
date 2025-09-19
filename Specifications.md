@@ -1,5 +1,7 @@
+#Feature
+- Create StringCalculator that can take any amount of numbers and return their sum
+
 # Requirement Specification
-- Create StringCalculator that can take 2 numbers and return their sums
 - Add method should be able to take an unknown amount of numbers
 - Add method should work with any delimiter
 - Numbers bigger than 1000 should be ignores
